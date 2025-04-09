@@ -12,6 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="center" alt="Brooke | LinkedIn" width="22px" src="www.linkedin.com/in/brooke-jacob-2b6b3392"/>][linkedin]
+[<img align="left" alt="Brooke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 [linkedin]: https://linkedin.com/in/brooke-jacob-2b6b3392
